@@ -29,3 +29,4 @@ Example:
 - Added [Linear Regression](./linear_regression/README.md)
 - Added [Polynomial Regression](./polynomial_regression/README.md)
 - Added [Redge Regression](./redge_regression/README.md)
+- Added [Lasso regression](./lasso_regression/README.md)

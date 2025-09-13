@@ -26,3 +26,4 @@ Each algorithm/module is organized in its own folder:
 - **README.md** with explanations, usage examples, and key concepts.  
 
 Example:
+- Added [Linear Regression](./linear_regression/README.md)

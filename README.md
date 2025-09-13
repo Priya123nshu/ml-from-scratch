@@ -28,3 +28,4 @@ Each algorithm/module is organized in its own folder:
 Example:
 - Added [Linear Regression](./linear_regression/README.md)
 - Added [Polynomial Regression](./polynomial_regression/README.md)
+- Added [Redge Regression](./redge_regression/README.md)

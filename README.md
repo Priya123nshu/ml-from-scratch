@@ -3,7 +3,7 @@
 Welcome to this repository!  
 Here you’ll find a growing collection of **machine learning algorithms implemented from scratch in Python**.  
 
-The goal of this repo is to help you **learn the core concepts of machine learning** by breaking down each algorithm step by step, without relying on high-level libraries like `scikit-learn`.  
+The goal of this repo is to help you **learn the core concepts of machine learning** by breaking down each algorithm step by step.  
 
 ---
 

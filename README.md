@@ -32,3 +32,4 @@ Example:
 - Added [Lasso regression](./lasso_regression/README.md)
 - Added [Logistic regression](./logistic_regression/README.md)
 - Added [Decision Forest](./decision_forest/README.md)
+- Added [Elastic Net](./elastic_net/README.md)

@@ -33,3 +33,4 @@ Example:
 - Added [Logistic regression](./logistic_regression/README.md)
 - Added [Decision Forest](./decision_forest/README.md)
 - Added [Elastic Net](./elastic_net/README.md)
+- Added [Support Vector Classifier (SVC)](./support_vector_classifier_(svc)/README.md)
